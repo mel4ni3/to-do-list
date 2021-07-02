@@ -1,0 +1,25 @@
+.strikethrough {
+    text-decoration: line-through;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Ribeye Marrow', cursive;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Dekko', cursive;
+    font-size: 15pt;
+}
+
+ol {
+    padding: 1px;
+    font-family: 'Dekko', cursive;
+    margin-left: 30px;
+    font-size: 20pt;
+}
+
+button{
+    font-family: 'Dekko', cursive;
+}
